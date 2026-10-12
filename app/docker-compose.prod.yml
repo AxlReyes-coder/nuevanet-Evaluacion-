@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    image: nuevanet-api:1.0
+    ports:
+      - "80:5000"
+    environment:
+      - APP_ENV=prod
+    restart: unless-stopped
+    cpus: "0.5"
+    mem_limit: 256m
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s

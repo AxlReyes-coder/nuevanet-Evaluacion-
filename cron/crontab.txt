@@ -1,0 +1,8 @@
+# NuevaNet - tareas automáticas
+# Formato: minuto hora día-del-mes mes día-de-la-semana comando
+# Respaldo completo: domingos a las 02:00
+0 2 * * 0   /home/ec2-user/nuevanet/scripts/respaldo.sh completo >> /home/ec2-user/nuevanet/cron.log 2>&1
+# Respaldo incremental: lunes a sábado a las 02:00
+0 2 * * 1-6 /home/ec2-user/nuevanet/scripts/respaldo.sh incremental >> /home/ec2-user/nuevanet/cron.log 2>&1
+# Procesamiento de logs: todos los días a las 03:30
+30 3 * * *  /home/ec2-user/nuevanet/scripts/procesar_logs.sh >> /home/ec2-user/nuevanet/cron.log 2>&1

@@ -1,0 +1,11 @@
+== Entorno ==
+Red Hat Enterprise Linux release 9.8 (Plow)
+5.14.0-687.10.1.el9_8.x86_64
+== Docker ==
+Docker version 29.9.0, build f415da8
+Docker Compose version v5.6.0
+== Otras ==
+tar (GNU tar) 1.34
+GNU bash, version 5.1.8(1)-release (x86_64-redhat-linux-gnu)
+git version 2.52.0
+cronie-1.5.7-16.el9.x86_64

@@ -1,0 +1,17 @@
+2026-10-12 05:29:09 [ERROR] Tipo inválido 'semanal' (use: completo | incremental)
+2026-10-12 05:29:27 [ERROR] El origen no existe: /ruta/que/no/existe
+2026-10-12 05:30:53 [INFO] Iniciando respaldo completo de /home/ec2-user/nuevanet/datos
+2026-10-12 05:30:53 [INFO] Respaldo creado: /home/ec2-user/nuevanet/respaldos/completo_2026-10-12_053053.tar.gz (4.0K)
+2026-10-12 05:30:53 [INFO] Respaldos antiguos eliminados: 0
+2026-10-12 05:31:27 [INFO] Iniciando respaldo incremental de /home/ec2-user/nuevanet/datos
+2026-10-12 05:31:27 [INFO] Respaldo creado: /home/ec2-user/nuevanet/respaldos/incremental_2026-10-12_053127.tar.gz (4.0K)
+2026-10-12 05:31:27 [INFO] Respaldos antiguos eliminados: 0
+2026-10-12 05:38:01 [INFO] Iniciando respaldo incremental de /home/ec2-user/nuevanet/datos
+2026-10-12 05:38:01 [INFO] Respaldo creado: /home/ec2-user/nuevanet/respaldos/incremental_2026-10-12_053801.tar.gz (4.0K)
+2026-10-12 05:38:01 [INFO] Respaldos antiguos eliminados: 0
+2026-10-12 05:40:01 [INFO] Iniciando respaldo incremental de /home/ec2-user/nuevanet/datos
+2026-10-12 05:40:01 [INFO] Respaldo creado: /home/ec2-user/nuevanet/respaldos/incremental_2026-10-12_054001.tar.gz (4.0K)
+2026-10-12 05:40:01 [INFO] Respaldos antiguos eliminados: 0
+2026-10-12 05:42:01 [INFO] Iniciando respaldo incremental de /home/ec2-user/nuevanet/datos
+2026-10-12 05:42:01 [INFO] Respaldo creado: /home/ec2-user/nuevanet/respaldos/incremental_2026-10-12_054201.tar.gz (4.0K)
+2026-10-12 05:42:01 [INFO] Respaldos antiguos eliminados: 0

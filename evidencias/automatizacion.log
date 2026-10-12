@@ -1,0 +1,10 @@
+2026-10-12 04:57:40 [INFO] Procesando logs en /home/ec2-user/nuevanet/logs
+2026-10-12 04:57:40 [INFO] Reporte generado: /home/ec2-user/nuevanet/reportes/errores_2026-10-12.txt (3 líneas)
+2026-10-12 04:57:40 [INFO] Logs comprimidos (más de 7 días): 0
+2026-10-12 04:57:40 [INFO] Proceso finalizado correctamente
+2026-10-12 04:59:01 [INFO] Procesando logs en /home/ec2-user/nuevanet/logs
+2026-10-12 04:59:01 [INFO] Reporte generado: /home/ec2-user/nuevanet/reportes/errores_2026-10-12.txt (3 líneas)
+2026-10-12 04:59:01 [INFO] Logs comprimidos (más de 7 días): 1
+2026-10-12 04:59:01 [INFO] Proceso finalizado correctamente
+2026-10-12 05:00:13 [ERROR] El directorio no existe: /ruta/que/no/existe
+2026-10-12 05:00:48 [ERROR] Permiso denegado en: /home/ec2-user/nuevanet/logs_privado

@@ -1,0 +1,10 @@
+datos/
+respaldos/
+logs/
+logs_privado/
+reportes/
+*.snar
+*.tar.gz
+*.pem
+__pycache__/
+*.pyc
