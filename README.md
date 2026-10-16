@@ -5,7 +5,6 @@ Solución de infraestructura en AWS con RHEL: automatización, contenedores y re
 ## Contenido
 
 | Carpeta | Descripción |
-|---|---|
 | scripts/procesar_logs.sh | Reporte de errores y compresión de logs antiguos |
 | scripts/respaldo.sh | Respaldo completo e incremental con tar |
 | app/ | API Flask, Dockerfile y compose para dev y prod |
