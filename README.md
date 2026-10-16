@@ -1,4 +1,4 @@
-# NuevaNet - Evaluación Parcial 2 (AAY1110)
+# NuevaNet - Evaluación Parcial 2 
 
 Solución de infraestructura en AWS con RHEL: automatización, contenedores y respaldos.
 
